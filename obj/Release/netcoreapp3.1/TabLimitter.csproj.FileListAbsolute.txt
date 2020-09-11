@@ -1,0 +1,11 @@
+C:\Users\dtmgr\source\repos\TabLimitter\bin\Release\netcoreapp3.1\TabLimitter.exe
+C:\Users\dtmgr\source\repos\TabLimitter\bin\Release\netcoreapp3.1\TabLimitter.deps.json
+C:\Users\dtmgr\source\repos\TabLimitter\bin\Release\netcoreapp3.1\TabLimitter.runtimeconfig.json
+C:\Users\dtmgr\source\repos\TabLimitter\bin\Release\netcoreapp3.1\TabLimitter.runtimeconfig.dev.json
+C:\Users\dtmgr\source\repos\TabLimitter\bin\Release\netcoreapp3.1\TabLimitter.dll
+C:\Users\dtmgr\source\repos\TabLimitter\bin\Release\netcoreapp3.1\TabLimitter.pdb
+C:\Users\dtmgr\source\repos\TabLimitter\obj\Release\netcoreapp3.1\TabLimitter.csprojAssemblyReference.cache
+C:\Users\dtmgr\source\repos\TabLimitter\obj\Release\netcoreapp3.1\TabLimitter.AssemblyInfoInputs.cache
+C:\Users\dtmgr\source\repos\TabLimitter\obj\Release\netcoreapp3.1\TabLimitter.AssemblyInfo.cs
+C:\Users\dtmgr\source\repos\TabLimitter\obj\Release\netcoreapp3.1\TabLimitter.dll
+C:\Users\dtmgr\source\repos\TabLimitter\obj\Release\netcoreapp3.1\TabLimitter.pdb
